@@ -1,2 +1,2 @@
 # Dashboard
-Confirm web dashboard
+ web dashboard
